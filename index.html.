@@ -1,4 +1,20 @@
    <DOCTYPE html>
    <html lang= "pt-br"
+   
 <head>
-   <hl> sobre mecanica</hl>
+    <meta charset="UTF-8">
+   <title> sobre Medicina</title>
+   <link rel="stylesheet" href="styles.css">
+   
+ </head>
+ <body>
+        <header>
+             <h1 class="titulo-principal"> Medicina</h1>
+        </header>
+        <img id=        src=
+        <img class="principal">
+               <h2 class="titulo-centralizado">sobre Medicina</h2>
+  <p>localizada no coração da cidade a <strong> Medicina</strong> traz erradição e tratamentos de doenças e bem-estar
+  <p id="missão"><em>Nossa missão é:<strong> "Salvar vidas e trazer esperanças para aqueles que sofrem alguma doença
+  <p>oferecemos profissional especializados em várias áreas da medicina
+  </div
